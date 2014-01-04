@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Evangelizar</string>
+
+    <!-- Main -->
+    <string name="action_sincronizar">Sincronizar</string>
+    <string name="button_pessoa">Nova pessoa</string>
+    <string name="button_shalom">Comunidade Católica Shalom</string>
+    <string name="button_dicasEvangelizacao">Dicas para evangelização</string>
+
+    <!-- Cadastro Pessoas -->
+    <string name="title_activity_cadastro">Pessoa</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="text_nome">Nome</string>
+    <string name="text_celular">Celular</string>
+    <string name="text_email">E-mail</string>
+    <string name="text_cidade">Cidade</string>
+    
+    <!-- Shalom -->
+    <string name="title_activity_shalom">Shalom</string>
+    <string name="text_shalom">Obra Shalom é o conjunto da ação evangelizadora realizada pela Comunidade e os seus frutos. Membros dos grupos de oração, das comunidades de Vida e de Aliança e cada pessoa que é alcançada por essa ação faz parte da Obra Shalom.</string>
+    
+    <!-- Dicas -->
+    <string name="title_activity_dicas">Dicas</string>
+    <string name="text_dicas">Os centros de evangelização localizam-se em cidades onde a Comunidade atua. No entanto, mesmo nos lugares onde eles não existem, o Carisma Shalom se expressa através de estruturas e grupos de Difusão da Obra.</string>
+
+</resources>
